@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="titulo">Facebook</string>
+    <string name="user">User</string>
+    <string name="Info_usuario_nombre">Nombre</string>
+    <string name="Info_usuario_apellido">Apellido</string>
+    <string name="button_registrar">Registrar</string>
+    <string name="Info_usuario_correo">Correo</string>
+    <string name="Info_usuario_contrasena">Contraseña</string>
+    <string name="Info_usuario_telefono">Teléfono</string>
+</resources>
