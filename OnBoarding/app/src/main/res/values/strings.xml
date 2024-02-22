@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OnBoarding</string>
+    <string name="bienvenida">Welcome</string>
+    <string name="crearCuenta">Create account</string>
+    <string name="nuevoEnAmazon">New to Amazon?</string>
+    <string name="inputNombreApellido">First and last name</string>
+    <string name="inputNumeroEmail">Mobile number or email</string>
+    <string name="inputCreatePassword">Create password</string>
+    <string name="showPassword">Show password</string>
+    <string name="botonContinuar">Continue</string>
+    <string name="leyenda">By creating an account, you agree to Amazon's Conditions of use and Privacy Notice</string>
+    <string name="ofrecerTrabajo">Buying for work?</string>
+    <string name="crearCuentaEmpresarial">Create free bussines account</string>
+    <string name="iniciarSesion">Sing in</string>
+    <string name="soyUsuario">Already a customer?</string>
+</resources>
